@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.18.0
+deep-translator==1.11.4
+SpeechRecognition==3.10.0
+pydub==0.25.1
+PyPDF2==3.0.1
+Flask==3.0.3
+gunicorn==22.0.0
